@@ -1,0 +1,9 @@
+# Don't track contents of these folders
+Notes/
+
+# Don't track data files (too large)
+2005.csv
+2006.csv
+2007.csv
+2008.csv
+
