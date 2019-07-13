@@ -7,3 +7,7 @@ Notes/
 2007.csv
 2008.csv
 
+# Don't track .ipynb_checkpoints or .DS_Store (not necessary)
+.ipynb_checkpoints/
+.DS_Store
+
