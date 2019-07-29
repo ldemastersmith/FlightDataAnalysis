@@ -40,4 +40,4 @@ Once all the variables of key interest have been introduced, I then provide a he
 
 For the final round of plots, I introduce calendar plots of median arrival delay. I find these to be especially insightful once they are filtered by various additional variables, such as destination or airline. When creating these plots, I made sure to select a diverging color palette so that any negative arrival delay (i.e., early flights) would show up as a distinctly different color.
 
-The most notable change I made to a plots upon putting it in the slide deck was to create side-by-side distribution plots for the arrival and weather delay distributions. I also made sure to plot the weather delay version in a different color to make it clear that the reader was viewing a different variable.
+The most notable change I made to any plots upon putting tem in the slide deck was to create side-by-side distribution plots for the arrival and weather delay distributions. I also made sure to plot the weather delay, destination, and airline plots in different colors to make it clear that the reader was viewing a different variable each time.
